@@ -1,0 +1,23 @@
+h1{
+    font-family: Verdana;
+    color: green;
+    font-size: 20pt;
+}
+
+h2{
+    font-family: Verdana;
+    color: blue;
+    font-size: 14pt;
+}
+
+p{
+    font-family: Arial;
+    color: red;
+    font-size: 12pt;
+}
+
+a{
+    font-family: Arial;
+    color: green;
+    font-size: 14pt;
+}
